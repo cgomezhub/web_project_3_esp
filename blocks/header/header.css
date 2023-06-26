@@ -1,6 +1,5 @@
 .header{
     width: 100%;
-    display: grid;
     padding-top: 34px;
-    grid-template-rows: 1fr 1.5fr 1.25fr 4fr;
+    
 }
