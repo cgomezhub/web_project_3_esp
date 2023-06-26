@@ -1,10 +1,12 @@
-*/* normaliacion */
+/* normaliacion */
 
-@import url(./);
+@import url(./vendor/normalize.css);
 
 /* ajuste de la pagina */
 
 @import url(./blocks/page/page.css);
+
+
 
 /* header */
 
