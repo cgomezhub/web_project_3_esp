@@ -1,0 +1,5 @@
+.photo-grid__04{
+    margin: auto;
+    grid-column:  4 / 5;
+    grid-row: 1 / 2;  
+}
