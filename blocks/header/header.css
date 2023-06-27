@@ -2,4 +2,6 @@
     width: 100%;
     padding-top: 34px;
     margin: auto;
+    display: flex;
+
 }
