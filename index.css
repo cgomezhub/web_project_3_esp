@@ -28,3 +28,14 @@
 @import url(./blocks/intro/__cita/intro__cita.css);
 @import url(./blocks/intro/__author/intro__author.css);
 @import url(./blocks/intro/__paragraph/intro__paragraph.css);
+
+/* photo-grid*/
+@import url(./blocks/photo-grid/photo-grid.css);
+@import url(./blocks/photo-grid/__01/photo-grid__01.css);
+@import url(./blocks/photo-grid/__02/photo-grid__02.css);
+@import url(./blocks/photo-grid/__03/photo-grid__03.css);
+@import url(./blocks/photo-grid/__04/photo-grid__04.css);
+@import url(./blocks/photo-grid/__05/photo-grid__05.css);
+@import url(./blocks/photo-grid/__06/photo-grid__06.css);
+@import url(./blocks/photo-grid/__07/photo-grid__07.css);
+@import url(./blocks/photo-grid/__08/photo-grid__08.css);
