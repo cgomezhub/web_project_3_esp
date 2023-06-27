@@ -22,3 +22,9 @@
 @import url(./blocks/lead/__subtitle/lead__subtitle.css);
 @import url(./blocks/lead/__image/lead__image.css);
 
+/* intro */
+@import url(./blocks/intro/intro.css);
+@import url(./blocks/intro/__title/intro__title.css);
+@import url(./blocks/intro/__cita/intro__cita.css);
+@import url(./blocks/intro/__author/intro__author.css);
+@import url(./blocks/intro/__paragraph/intro__paragraph.css);
