@@ -1,7 +1,7 @@
 .intro{
-    width:100%;
-    padding-top: 92px;
     display: grid;
-    grid-template-columns: 1fr 1fr 1fr;
-    grid-template-rows: 3.41fr 4fr 1fr 5.38fr;
+    width:80%;
+    margin: 92px auto 0px;    
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: 6fr 4fr 1fr 6fr;
 }

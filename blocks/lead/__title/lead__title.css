@@ -2,5 +2,7 @@
     font-family: Inter;
     font-size: 96px;
     color: rgba(255, 255, 255, 1);
+    width:50%;
     margin: auto;
+    text-align: center;
 }

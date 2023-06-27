@@ -1,7 +1,7 @@
 .lead{
-    width:100%;
+    width:80%;
     display: grid;
-    grid-template-rows: 1fr 0.8fr 4fr;
-    
+    grid-template-rows: 1fr 0.5fr 3fr;
+    margin: 90px auto 0px;
 
 }
