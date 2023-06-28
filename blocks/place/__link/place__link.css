@@ -1,0 +1,10 @@
+.place__link{
+    font-family: Inter;
+    font-size: 18px;
+    color:rgba(255, 255, 255, 1);
+    background-color: rgba(2, 120, 254, 1);
+    margin: auto;
+    text-align: left bottom;
+    grid-row: 4 / 5;
+    grid-column: 1 / 2;
+}

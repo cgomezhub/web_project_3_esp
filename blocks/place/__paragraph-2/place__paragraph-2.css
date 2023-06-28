@@ -1,0 +1,9 @@
+.place__paragraph-2{
+    font-family: Inter;
+    font-size: 18px;
+    color:rgba(255, 255, 255, 1);
+    margin: auto;
+    text-align: left;
+    grid-row: 3 / 4;
+    grid-column: 2 / 3;
+}
