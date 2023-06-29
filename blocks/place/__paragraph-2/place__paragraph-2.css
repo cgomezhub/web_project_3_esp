@@ -4,7 +4,5 @@
     line-height: 150%;
     color:rgba(255, 255, 255, 1);
     margin: 0 auto;
-    text-align: left;
-    grid-row: 3 / 4;
-    grid-column: 2 / 3;
+    margin-top: 5%;
 }

@@ -1,5 +1,5 @@
 .place__image{
-    margin: auto  auto auto 0;
-    grid-row: 2 / 4;
+    margin: 5%  auto auto 0;
+    grid-row: 2 / 3;
     grid-column: 1 / 2;
 }
