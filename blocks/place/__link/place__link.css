@@ -1,10 +1,12 @@
 .place__link{
     font-family: Inter;
     font-size: 18px;
+    line-height: 200%;
+    text-decoration: none;
     color:rgba(255, 255, 255, 1);
     background-color: rgba(2, 120, 254, 1);
-    margin: auto;
-    text-align: left bottom;
+    margin:  0 auto auto 0;
+    text-align: left;
     grid-row: 4 / 5;
     grid-column: 1 / 2;
 }

@@ -46,6 +46,8 @@
 /* place */
 @import url(./blocks/place/place.css);
 @import url(./blocks/place/__title/place__title.css);
+@import url(./blocks/place/__ciudad/place__ciudad.css);
+@import url(./blocks/place/__pais/place__pais.css);
 @import url(./blocks/place/__website/place__website.css);
 @import url(./blocks/place/__url-heading/place__url-heading.css);
 @import url(./blocks/place/__artist/place__artist.css);
