@@ -1,16 +1,14 @@
-.place__link{
+.group-9__link{
     font-family: Inter;
     font-size: 18px;    
     text-decoration: none;
     color:rgba(255, 255, 255, 1);
     background-color: rgba(2, 120, 254, 1);
-    margin:  5% auto auto 0;
-    padding: 3%  3%;
+    margin:  3% auto 20%;
+    padding: 1.5%  3%;
     border-radius: 5px;
-    grid-row: 3 / 4;
-    grid-column: 1 / 2;
 }
 
-.place__link:hover{
+.group-9__link:hover{
     opacity: 0.8;
 }

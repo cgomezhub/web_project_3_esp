@@ -57,3 +57,15 @@
 @import url(./blocks/place/__paragraph-2/place__paragraph-2.css);
 @import url(./blocks/place/__link/place__link.css);
 @import url(./blocks/place/__paragraph-3/place_paragraph-3.css);
+
+/*cover*/
+@import url(./blocks/cover/cover.css);
+
+/*group-9*/
+@import url(./blocks/group-9/group-9.css);
+@import url(./blocks/group-9/__title/group-9__title.css);
+@import url(./blocks/group-9/__subtitle-1/group-9__subtitle-1.css);
+@import url(./blocks/group-9/__subtitle-2/group__subtitle-2.css);
+@import url(./blocks/group-9/__subtitle-3/group__subtitle-3.css);
+@import url(./blocks/group-9/__link/group-9__link.css);
+
