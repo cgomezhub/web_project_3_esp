@@ -69,3 +69,6 @@
 @import url(./blocks/group-9/__subtitle-3/group__subtitle-3.css);
 @import url(./blocks/group-9/__link/group-9__link.css);
 
+/*footer*/
+@import url(./blocks/footer/footer.css);
+@import url(./blocks/footer/__copyright/footer__copyright.css);
