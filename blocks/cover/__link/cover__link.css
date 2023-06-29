@@ -1,4 +1,4 @@
-.group-9__link{
+.cover__link{
     font-family: Inter;
     font-size: 18px;    
     text-decoration: none;
@@ -7,8 +7,10 @@
     margin:  3% auto 18%;
     padding: 1.5%  3%;
     border-radius: 5px;
+    text-align: center;
+
 }
 
-.group-9__link:hover{
+.cover__link:hover{
     opacity: 0.8;
 }

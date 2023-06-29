@@ -1,4 +1,8 @@
 .cover{
-    width: 95%; 
+    width: 90%;
+    background-image: url(/imagenes/cover/__background__cover.png);
+    display: flex;
+    flex-direction: column;   
     margin: 10% auto 0;
+
 } 
