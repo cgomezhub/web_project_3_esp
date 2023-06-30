@@ -81,6 +81,25 @@
         margin: 5% 0 0 0;
         background-size: 80%;
     }
-
+    .intro{
+        width:95%;
+        margin: 10% auto 0;    
+        grid-template-columns: repeat(3, 1fr);
+        grid-template-rows: 5fr 3fr 1fr 4fr;
+    }
+    .intro__cita{
+        grid-column:  1 / 4;
+        grid-row: 2 / 3;
+        
+    }
+    .intro__author{
+        grid-column:  1 / 4;
+        grid-row: 3 / 4;
+    }
+    .intro__paragraph{
+        
+        grid-column:  1 / 4;
+        grid-row: 4 / 5;
+    }
 
 }    
