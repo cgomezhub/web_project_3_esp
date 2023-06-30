@@ -5,5 +5,10 @@
     margin: auto;
     padding-bottom: 2.5%;
     text-align: center;
-    width: 25%;
+    transition: transform  1s ease;
+}
+
+
+.footer__copyright:hover{
+    transform: scale(1.1, 1.1);
 }

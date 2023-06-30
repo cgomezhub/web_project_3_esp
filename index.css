@@ -72,6 +72,15 @@
 
 /* media queries*/
 
-@media screen and {
-    
-} 
+@media screen and (max-width: 768px){
+    .lead{
+        width:100%;
+        margin: 10% 0 0;
+    }
+    .lead__image{
+        margin: 5% 0 0 0;
+        background-size: 80%;
+    }
+
+
+}    
