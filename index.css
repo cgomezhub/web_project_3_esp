@@ -69,3 +69,9 @@
 /*footer*/
 @import url(./blocks/footer/footer.css);
 @import url(./blocks/footer/__copyright/footer__copyright.css);
+
+/* media queries*/
+
+@media screen and {
+    
+} 

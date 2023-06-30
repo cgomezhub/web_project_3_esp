@@ -9,8 +9,18 @@
     border-radius: 5px;
     grid-row: 3 / 4;
     grid-column: 1 / 2;
+    transition: transform  1s ease;
+}
+.place__link:hover{
+    transform: scale(1.1, 1.1);
+    padding: 0 3%;
 }
 
-.place__link:hover{
-    opacity: 0.8;
+.place__link::before{
+    content: "Buy this artwork as NFT";
+    display: none;
 }
+
+.place__link:hover::before{
+    display: block;
+    }    

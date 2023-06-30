@@ -5,3 +5,7 @@
     margin: auto;
     text-align: left bottom;
 }
+
+.place__url-heading:hover{
+    opacity: 0.5;
+}
