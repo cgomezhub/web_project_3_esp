@@ -1,8 +1,4 @@
 .place__title{
-    font-family: Inter;
-    font-size: 72px;
-    color: rgba(255, 255, 255, 1);
-    width: 110%;
     margin: auto 20% 0 0;
     text-align: left;
     grid-row: 1 / 2;

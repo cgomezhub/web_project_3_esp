@@ -159,4 +159,44 @@
         grid-column: 2  / 3;
         grid-row: 4 / 5;
     }
-}
+    .place{
+        width: 95%;
+        margin: 5% auto 0;
+        grid-template-rows: 0.5fr 3fr 0.5fr;
+     }
+     .place__image{
+        width: 97.5%;
+        margin: 5%  auto auto 0;
+        grid-row: 2 / 3;
+        grid-column: 1 / 2;
+    }
+    .place__title{
+        margin: 0;
+        padding: 0;
+        text-align: left;
+        display: flex;
+        flex-direction: row;
+    }
+
+    .place__ciudad{
+        font-size: 42px;
+        margin: 0;
+    }
+    .place__pais{
+        font-size: 42px;
+        margin: 0 0 0 5%;
+    }
+
+    .place__website{
+        margin: 0 auto auto 2.5%;
+    }
+
+    .place__url-heading{
+        margin-bottom: 3%;
+    }
+
+    .place__paragraph{
+        margin-left: 2.5%;
+        font-size: 16px;
+        line-height: 200%;
+    }
