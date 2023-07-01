@@ -1,6 +1,7 @@
 .place__artist{
     font-family: Inter;
     font-size: 18px;
+    line-height: 125%;
     color:rgba(255, 255, 255, 1);
     margin: auto;    
 }
