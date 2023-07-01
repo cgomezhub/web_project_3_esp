@@ -200,3 +200,7 @@
         font-size: 16px;
         line-height: 200%;
     }
+    .cover{
+        width: 100%;
+    }
+}

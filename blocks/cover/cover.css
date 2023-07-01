@@ -1,8 +1,11 @@
 .cover{
     width: 90%;
     background-image: url(/imagenes/cover/__background__cover.png);
+    background-size: cover;
+    background-position: center;
     display: flex;
     flex-direction: column;   
     margin: 10% auto 0;
+
 
 } 
