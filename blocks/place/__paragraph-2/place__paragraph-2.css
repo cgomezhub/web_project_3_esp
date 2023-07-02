@@ -1,6 +1,7 @@
 .place__paragraph-2{
     font-family: Inter;
     font-size: 18px;
+    font-weight: lighter;
     line-height: 150%;
     color:rgba(255, 255, 255, 1);
     margin: 0 auto;

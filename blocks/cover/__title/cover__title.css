@@ -1,7 +1,8 @@
 .cover__title{
     font-family: Inter;
     font-size: 72px;
+    font-weight: bold;
     color: rgba(255, 253, 253, 1);
-    margin: 22% auto 0;
+    margin: 20% auto 0;
     text-align: center;
 }

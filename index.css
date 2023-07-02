@@ -77,6 +77,13 @@
         width:100%;
         margin: 10% 0 0;
     }
+
+    .lead__subtitle{
+        width:90%;
+        font-size: 46px;
+        font-weight: normal;
+    
+    }
     .lead__image{
         margin: 5% 0 0 0;
         background-size: 80%;
@@ -87,17 +94,26 @@
         grid-template-columns: repeat(3, 1fr);
         grid-template-rows: 5fr 3fr 1fr 4fr;
     }
+
+    .intro__title{
+        font-size: 90px;
+        font-weight: bold;
+    }
+
+
     .intro__cita{
+        font-size: 40px;
         grid-column:  1 / 4;
         grid-row: 2 / 3;
         
     }
     .intro__author{
+        font-size: 40px;
         grid-column:  1 / 4;
         grid-row: 3 / 4;
     }
     .intro__paragraph{
-        
+        font-size: 27px;
         grid-column:  1 / 4;
         grid-row: 4 / 5;
     }
@@ -175,15 +191,17 @@
         padding: 0;
         text-align: left;
         display: flex;
-        flex-direction: row;
+        flex-direction: column;
     }
 
     .place__ciudad{    
-        font-size: 42px;
+        font-size: 70px;
+        font-weight: bold;
         margin: 0;
     }
     .place__pais{
-        font-size: 42px;
+        font-size: 70px;
+        font-weight: bold;
         margin: 0 0 0 2%;
     }
 
@@ -192,15 +210,58 @@
     }
 
     .place__url-heading{
-        margin-bottom: 3%;
+        font-size: 20px;
+        line-height: 200%;
+        font-weight:lighter
+        
+    }
+    .place__artist{
+        font-size: 30px;
+        font-weight:normal
+        
     }
 
-    .place__paragraph{
+
+    .place__paragraph-1{
+        font-size: 30px;
+        font-weight:normal;
         margin-left: 2.5%;
-        font-size: 16px;
-        line-height: 200%;
+        line-height: 150%;
     }
+
+    .place__paragraph-2{
+        font-size: 30px;
+        font-weight:normal;
+        margin-left: 2.5%;
+        line-height: 150%;
+    }
+
+    .place__paragraph-3{
+        font-size: 30px;
+        font-weight:normal;
+        margin-left: 2.5%;
+        line-height: 150%;
+    }
+    .place__link{
+        font-size: 30px; 
+    }
+
     .cover{
         width: 100%;
     }
+}
+
+@media screen and (max-width: 320px){
+
+    .logo{
+        width: 70%;
+    }
+
+    .lead{
+        margin: 15% auto 0;
+    
+    }
+    .lead__title{
+    }
+}
 }

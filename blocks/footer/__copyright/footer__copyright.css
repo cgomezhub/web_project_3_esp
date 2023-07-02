@@ -1,6 +1,7 @@
 .footer__copyright{
     font-family: Inter;
     font-size: 14px;
+    font-weight: lighter;
     color: rgba(255, 255, 255, 1);
     margin: auto;
     padding-bottom: 2.5%;
