@@ -6,6 +6,9 @@
 
 @import url(./blocks/page/page.css);
 
+/* fuentes */
+
+@import url(./fonts/fonts.css);
 
 
 /* header */
