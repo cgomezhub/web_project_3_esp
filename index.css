@@ -84,12 +84,13 @@
 
     .lead__subtitle{
         width:90%;
+        margin-top: 10%;
         font-size: 46px;
         font-weight: normal;
     
     }
     .lead__image{
-        margin: 5% 0 0 0;
+        margin: 10% 0 0 0;
         background-size: 80%;
     }
     .intro{
@@ -101,7 +102,6 @@
 
     .intro__title{
         font-size: 90px;
-        font-weight: bold;
     }
 
 
@@ -184,6 +184,7 @@
         width: 95%;
         grid-template-rows: 0.3fr  0.3fr 2.5fr 1fr;
         grid-template-columns: 0.25fr 0.75fr 1fr;
+
      }
     
     .place__image{
@@ -199,8 +200,8 @@
     }
 
     .place__pais-principal{
+        width: 50%;
         font-size: 70px;
-        font-weight: bold;
         margin: 0 0 0 5%;
         grid-row: 1 / 2;
         grid-column: 2 / 3;

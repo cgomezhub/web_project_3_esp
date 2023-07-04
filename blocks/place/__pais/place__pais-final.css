@@ -1,10 +1,9 @@
 .place__pais-final{
     font-family:'Inter900';
     font-size: 72px;
-    font-weight: bold;
     color: rgba(255, 255, 255, 1);
     list-style: none;
     margin: 0;
-    grid-column: 1 / 3;
+    grid-column: 1 / 2;
     grid-row: 2 / 3;
 }
