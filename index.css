@@ -34,14 +34,14 @@
 
 /* photo-grid*/
 @import url(./blocks/photo-grid/photo-grid.css);
-@import url(./blocks/photo-grid/__01/photo-grid__01.css);
-@import url(./blocks/photo-grid/__02/photo-grid__02.css);
-@import url(./blocks/photo-grid/__03/photo-grid__03.css);
-@import url(./blocks/photo-grid/__04/photo-grid__04.css);
-@import url(./blocks/photo-grid/__05/photo-grid__05.css);
-@import url(./blocks/photo-grid/__06/photo-grid__06.css);
-@import url(./blocks/photo-grid/__07/photo-grid__07.css);
-@import url(./blocks/photo-grid/__08/photo-grid__08.css);
+@import url(./blocks/photo-grid/__playa-nublado/photo-grid__playa-nublado.css);
+@import url(./blocks/photo-grid/__playa-despejado/photo-grid__playa-despejado.css);
+@import url(./blocks/photo-grid/__iglesia/photo-grid__iglesia.css);
+@import url(./blocks/photo-grid/__puente-lago/photo-grid__puente-lago.css);
+@import url(./blocks/photo-grid/__campo/photo-grid__campo.css);
+@import url(./blocks/photo-grid/__jardin/photo-grid__jardin.css);
+@import url(./blocks/photo-grid/__choza/photo-grid__choza.css);
+@import url(./blocks/photo-grid/__montana/photo-grid__montana.css);
 
 /* places */
 @import url(./blocks/places/);
@@ -127,52 +127,52 @@
         grid-row-gap: 0;
         padding-bottom: 0;
      }
-    .photo-grid__01{
+    .photo-grid__playa-nublado{
         margin-left: 0;
         width: 97.5%;
         height: 95%; 
     }
-    .photo-grid__02{
+    .photo-grid__playa-despejado{
         margin-right: 0;
         width: 97.5%;
         height: 95%;
     }
-    .photo-grid__03{
+    .photo-grid__iglesia{
         margin-left: 0;
         width: 97.5%;
         height: 95%;
         grid-column: 1  / 2;
         grid-row: 2 / 3;  
     }
-    .photo-grid__04{
+    .photo-grid__puente-lago{
         margin-right: 0;
         width: 97.5%;
         height: 95%;
         grid-column: 2  / 3;
         grid-row: 2 / 3;
     }
-    .photo-grid__05{
+    .photo-grid__campo{
         margin-left: 0;
         width: 97.5%;
         height: 95%;
         grid-column: 1  / 2;
         grid-row: 3 / 4;
     }
-    .photo-grid__06{
+    .photo-grid__jardin{
         margin-right: 0;
         width: 97.5%;
         height: 95%;
         grid-column: 2  / 3;
         grid-row: 3 / 4;
     }
-    .photo-grid__07{
+    .photo-grid__choza{
         margin-left: 0;
         width: 97.5%;
         height: 95%;
         grid-column: 1  / 2;
         grid-row: 4 / 5;
     }
-    .photo-grid__08{
+    .photo-grid__montana{
         margin-right: 0;
         width: 97.5%;
         height: 95%;
@@ -366,16 +366,17 @@
         grid-template-columns: 1fr;
         grid-template-rows: repeat(8, 1fr);
         grid-row-gap: 0;
-    padding-bottom: 0;}
+        padding-bottom: 0;
+    }
     
     
-    .photo-grid__01{
+    .photo-grid__playa-nublado{
             margin: auto;
             width: 97.5%;
             height: 95%; 
     }
     
-    .photo-grid__02{
+    .photo-grid__playa-despejado{
             margin: auto;
             width: 97.5%;
             height: 95%;
@@ -383,7 +384,7 @@
             grid-column: 1 / 2;
     }
     
-    .photo-grid__03{
+    .photo-grid__iglesia{
             margin: auto;
             width: 97.5%;
             height: 95%;
@@ -391,7 +392,7 @@
             grid-row: 3 / 4;  
     }
     
-    .photo-grid__04{
+    .photo-grid__puente-lago{
             margin: auto;
             width: 97.5;
             height: 95%;
@@ -399,7 +400,7 @@
             grid-row: 4 / 5;
     }
 
-    .photo-grid__05{
+    .photo-grid__campo{
             margin: auto;
             width: 97.5%;
             height: 95%;
@@ -407,7 +408,7 @@
             grid-row: 5 / 6;
     }
     
-    .photo-grid__06{
+    .photo-grid__jardin{
             margin: auto;
             width: 97.5%;
             height: 95%;
@@ -415,7 +416,7 @@
             grid-row: 6 / 7;
     }
     
-    .photo-grid__07{
+    .photo-grid__choza{
             margin: auto;
             width: 97.5%;
             height: 95%;
@@ -423,7 +424,7 @@
             grid-row: 7 / 8;
     }
     
-    .photo-grid__08{
+    .photo-grid__montana{
             margin: auto;
             width: 97.5%;
             height: 95%;
