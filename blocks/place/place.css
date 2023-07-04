@@ -2,6 +2,6 @@
     width: 85%;
     margin: 10% auto 0;
     display: grid;
-    grid-template-columns: 0.75fr 0.25fr 1fr;
-    grid-template-rows: 0.3fr  0.3fr 3fr 0.2fr;
+    grid-template-columns: 25% 25% 50%;
+    grid-template-rows: 10% 10% 70% 10%;
  }

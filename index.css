@@ -182,8 +182,10 @@
 
     .place{
         width: 95%;
-        grid-template-rows: 0.3fr  0.3fr 2.5fr 1fr;
-        grid-template-columns: 0.25fr 0.75fr 1fr;
+        grid-template-columns: 28% 22% 50%;
+        grid-template-rows: 8% 8% 60% 8% 16%;
+
+    
 
      }
     
@@ -209,8 +211,7 @@
 
     .place__pais-complemento{
         font-size: 70px;
-        font-weight: bold;
-        margin: 0 0 0 5%;
+        margin: 0 0 0 -40%;
     }
 
     .place__website{
@@ -237,21 +238,18 @@
 
     .place__paragraph-principal{
         font-size: 28px;
-        font-weight:lighter;
         margin-left: 2.5%;
         line-height: 150%;
             }
 
     .place__paragraph-complemento{
         font-size: 28px;
-        font-weight:lighter;
         margin-left: 2.5%;
         line-height: 150%;
     }
 
     .place__paragraph-final{
         font-size: 28px;
-        font-weight:lighter;
         margin-left: 2.5%;
         line-height: 150%;
     }
