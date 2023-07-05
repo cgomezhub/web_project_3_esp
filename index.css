@@ -95,7 +95,7 @@
     }
     .intro{
         width:95%;
-        margin: 10% auto 0;    
+        margin: 10% auto 0;
         grid-template-columns: repeat(3, 1fr);
         grid-template-rows: 5fr 3fr 1fr 4fr;
     }
@@ -221,14 +221,11 @@
 
     .place__url-heading{
         font-size: 20px;
-        line-height: 200%;
-        font-weight:lighter
-        
+        line-height: 200%;        
     }
 
     .place__artist{
         font-size: 30px;
-        font-weight:normal
         
     }
 
@@ -486,13 +483,10 @@
     .place__url-heading{
         font-size: 50px;
         line-height: 225%;
-        font-weight:lighter
         
     }
     .place__artist{
         font-size: 74px;
-        font-weight:normal
-        
     }
     
     .place__image{
@@ -509,21 +503,18 @@
     }
     .place__paragraph-principal{
         font-size: 66px;
-        font-weight:lighter;
         margin-left: 0;
         line-height: 150%;
             }
 
     .place__paragraph-complemento{
         font-size: 66px;
-        font-weight:lighter;
         margin-left: 0;
         line-height: 150%;
     }
 
     .place__paragraph-final{
         font-size: 66px;
-        font-weight:lighter;
         margin-left: 0;
         line-height: 150%;
     }
