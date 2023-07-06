@@ -1,5 +1,5 @@
 .place__ciudad{
-    font-family:'inter900';
+    font-family:'inter900', Arial, sans-serif;
     line-height: 100%;
     font-size: 72px;
     color: rgba(255, 255, 255, 1);

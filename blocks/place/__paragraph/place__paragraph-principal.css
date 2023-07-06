@@ -1,5 +1,5 @@
 .place__paragraph-principal{
-    font-family:'inter400';
+    font-family:'inter400', Arial, sans-serif;
     font-size: 18px;
     line-height: 150%;
     color:rgba(255, 255, 255, 1);

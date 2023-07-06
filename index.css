@@ -475,7 +475,6 @@
 
     .place__website{
         margin: 0 auto auto 0;
-
         grid-row: 3 / 4;
         grid-column: 1 / 3;
     }

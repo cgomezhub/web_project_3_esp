@@ -1,5 +1,5 @@
 .place__artist{
-    font-family:'inter400';
+    font-family:'inter400', Arial,sans-serif;
     font-size: 18px;
     line-height: 125%;
     color:rgba(255, 255, 255, 1);
