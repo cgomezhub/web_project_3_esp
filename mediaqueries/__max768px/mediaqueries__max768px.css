@@ -1,0 +1,226 @@
+@media screen and (min-width: 320px) and (max-width: 768px){
+    .lead{
+        width:100%;
+        margin: 10% 0 0;
+    }
+
+    .lead__subtitle{
+        max-width:90%;
+        margin-top: 10%;
+        font-size: 46px;
+        font-weight: normal;
+    
+    }
+    .lead__image{
+        margin: 10% 0 0 0;
+        background-size: 80%;
+    }
+    .intro{
+        width:95%;
+        margin: 10% auto 0;
+        grid-template-columns: repeat(3, 1fr);
+        grid-template-rows: 5fr 3fr 1fr 4fr;
+    }
+
+    .intro__title{
+        font-size: 90px;
+    }
+
+
+    .intro__cita{
+        font-size: 40px;
+        grid-column:  1 / 4;
+        grid-row: 2 / 3;
+        
+    }
+    .intro__author{
+        font-size: 40px;
+        grid-column:  1 / 4;
+        grid-row: 3 / 4;
+    }
+    .intro__paragraph{
+        font-size: 27px;
+        grid-column:  1 / 4;
+        grid-row: 4 / 5;
+    }
+    .photo-grid{
+        grid-template-columns: repeat(2, 1fr);
+        grid-template-rows: repeat(4, 1fr);
+        grid-row-gap: 0;
+        padding-bottom: 0;
+     }
+    .photo-grid__playa-nublado{
+        margin-left: 0;
+        width: 97.5%;
+        height: 95%; 
+    }
+    .photo-grid__playa-despejado{
+        margin-right: 0;
+        width: 97.5%;
+        height: 95%;
+    }
+    .photo-grid__iglesia{
+        margin-left: 0;
+        width: 97.5%;
+        height: 95%;
+        grid-column: 1  / 2;
+        grid-row: 2 / 3;  
+    }
+    .photo-grid__puente-lago{
+        margin-right: 0;
+        width: 97.5%;
+        height: 95%;
+        grid-column: 2  / 3;
+        grid-row: 2 / 3;
+    }
+    .photo-grid__campo{
+        margin-left: 0;
+        width: 97.5%;
+        height: 95%;
+        grid-column: 1  / 2;
+        grid-row: 3 / 4;
+    }
+    .photo-grid__jardin{
+        margin-right: 0;
+        width: 97.5%;
+        height: 95%;
+        grid-column: 2  / 3;
+        grid-row: 3 / 4;
+    }
+    .photo-grid__choza{
+        margin-left: 0;
+        width: 97.5%;
+        height: 95%;
+        grid-column: 1  / 2;
+        grid-row: 4 / 5;
+    }
+    .photo-grid__montana{
+        margin-right: 0;
+        width: 97.5%;
+        height: 95%;
+        grid-column: 2  / 3;
+        grid-row: 4 / 5;
+    }
+
+    .place{
+        width: 95%;
+        grid-template-columns: 28% 22% 50%;
+        grid-template-rows: 8% 8% 60% 8% 16%;
+
+    
+
+     }
+    
+    .place__image{
+        width: 97.5%;
+        margin: 5%  auto auto 0;
+    }
+    
+
+    .place__ciudad{    
+        font-size: 70px;
+        font-weight: bold;
+        margin: 0;
+    }
+
+    .place__pais-principal{
+        max-width: 50%;
+        font-size: 70px;
+        margin: 0 0 0 5%;
+        grid-row: 1 / 2;
+        grid-column: 2 / 3;
+    }
+
+    .place__pais-complemento{
+        font-size: 70px;
+        margin: 0;
+    }
+
+    .place__website{
+        margin: 0 auto auto 2.5%;
+        
+    }
+
+    .place__url-heading{
+        font-size: 20px;
+        line-height: 200%;
+        margin-left: 5%;       
+    }
+
+    .place__artist{
+        font-size: 30px;
+        margin: 0 0 0 5%;
+        width: 100%;
+        
+    }
+
+    .place__paragraph{
+        grid-row: 3 / 5;
+    }
+
+    .place__paragraph-principal{
+        font-size: 28px;
+        margin-left: 2.5%;
+        line-height: 150%;
+            }
+
+    .place__paragraph-complemento{
+        font-size: 28px;
+        margin-left: 2.5%;
+        line-height: 150%;
+    }
+
+    .place__paragraph-final{
+        font-size: 28px;
+        margin-left: 2.5%;
+        line-height: 150%;
+    }
+    .place__link{
+        font-size: 30px;
+        margin-top: 10%;
+    }
+
+    .cover{
+        width: 100%;
+    }
+
+    .cover__title{
+        font-size: 125px;
+        margin-top: 30%;
+
+    }
+    .cover__subtitle-principal{
+        font-size: 30px;
+        line-height: 150%;
+        margin-top: 5%;
+                
+
+    }
+
+    .cover__subtitle-complemento{
+        font-size: 30px;
+        line-height: 150%;
+        
+
+
+    }
+
+    .cover__subtitle-final{
+        font-size: 30px;
+        line-height: 150%;
+        
+
+    }
+
+    .cover__link{
+        font-size: 30px;
+        margin-top: 5%;
+        margin-bottom: 30%;
+
+    }
+
+    .footer__copyright{
+        font-size: 25px;
+    }
+
+}

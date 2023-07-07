@@ -1,9 +1,9 @@
 .lead__subtitle{
     font-family:'Inter400', Arial,sans-serif;
-    width: 80%;
     font-size: 30px;
+    width: 80%;
     color: rgba(255, 255, 255, 1);
-    margin: 3% auto 0 auto;
+    margin: 5% auto 0 auto;
     text-align: center;
 
 }

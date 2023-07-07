@@ -3,7 +3,6 @@
     background-image: url(../../imagenes/cover/__background__cover.png);
     background-size: cover;
     transition: filter 0.3s ease;
-    background-position: center;
     display: flex;
     flex-direction: column;
     margin: 10% auto 0;
@@ -11,5 +10,5 @@
 } 
 
 .cover:hover{
-    filter: brightness(40%);
+    filter: brightness(70%);
 }

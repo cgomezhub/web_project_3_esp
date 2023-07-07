@@ -8,20 +8,11 @@
     padding: 1.5%  3%;
     border-radius: 5px;
     text-align: center;
-    transition: transform  1s ease;
+    transition: transform  0.5s ease;
 
 }
 
 .cover__link:hover{
     transform: scale(1.1, 1.1);
-    margin:  3% auto 17.25%;
-}
 
-.cover__link::before{
-    content: "Buy tickets";
-    display: none;
 }
-
-.cover__link:hover::before{
-    display: block;
-    }    
